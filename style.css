@@ -4,9 +4,12 @@ body{
     font-family: 'Poppins', sans-serif; 
 }
 
-.first-section {
+.flex-container{
     display: flex;
     flex-direction: row;
+}
+
+.width-margin {
     width: 80%;
     margin: 0 auto;
 }
@@ -59,13 +62,6 @@ body{
     padding-top: 25px;
 }
 
-.second-section{
-    display: flex;
-    flex-direction: row;
-    width: 80%;
-    margin: 0 auto;
-}
-
 .second-section-title {
     text-align: center;
     font-weight: bolder;
@@ -114,7 +110,11 @@ body{
 
 .second-goals-para{
     margin: 0px 20px ;
-    padding: 10px 20px;
+}
+
+.third-section{
+
+
 }
 
 
