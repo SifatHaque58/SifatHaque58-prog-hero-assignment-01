@@ -117,8 +117,6 @@ body{
 
 
 /* third section */
-
-
 .third-img-ls img{
     width: 60%;
     margin: 20px 180px;
@@ -155,9 +153,6 @@ body{
 
 /* fourth section */
 
-.fourth-section{
-    margin-bottom: 25%;
-}
 .fourth-img-rs img{
     width: 90%;
     margin: 180px 20px;
@@ -189,9 +184,39 @@ body{
     
   }
 
+  /* last section */
 
 
+  .last-sec-heading{
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif; 
+    padding-left: 25%;   
+  }
+  .last-para-sec{
+    width: 80%;  
+    padding-left: 25%;
 
+  }
+
+  .last-section-ls img{
+    width: 80%;
+
+  }
+  .last-section-rs{
+    width: 80%;  
+    padding-left: 5%;
+    padding-bottom: 20%;
+  }
+  .last-section-ls{
+    background-image: url(./images/shapes/shape-6.png);
+    background-position: 90% 70%;
+    background-repeat: no-repeat;
+    background-size: 300px;
+
+  }
+ 
+ 
 /* footer section */
 .footer {
     height: 120px;
