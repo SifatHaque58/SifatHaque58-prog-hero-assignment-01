@@ -16,7 +16,6 @@ body{
 }
 
 .first-para-section{
-
     margin-top: 30px;
     font-weight: 400;
    
@@ -30,7 +29,6 @@ body{
 }
 
 .first-left-heading{
-
    font-family: 'Abril Fatface', cursive;
    font-size: 20px;
 }
@@ -50,7 +48,6 @@ body{
 }
 
 .explore-btn{
-
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 5px;
@@ -63,7 +60,6 @@ body{
 }
 
 .second-section{
-
     display: flex;
     flex-direction: row;
     width: 80%;
@@ -71,11 +67,54 @@ body{
 }
 
 .second-section-title {
-
     text-align: center;
     font-weight: bolder;
     font-size: 35px;
     font-family: 'Roboto', sans-serif;     
+}
+.second-mission{
+    background-color: rgb(233, 252, 250);
+    border-radius: 10px;
+    margin: 0px 10px;
+
+}
+
+.second-vision{
+    background-color: rgb(233, 252, 250);
+    border-radius: 10px;
+    margin: 0px 10px;
+
+}
+.second-goals{
+    background-color: rgb(233, 252, 250);
+    border-radius: 10px;
+    margin: 0px 10px;
+}
+
+.second-mission-img img{
+    width: 50%;
+}
+
+.second-vision-img img{
+    width: 50%;
+}
+
+.second-goals-img img{
+    width: 50%;
+}
+
+.second-mission-para{
+    margin: 0px 20px ;
+}
+
+.second-vision-para{
+    margin: 0px 20px ;
+}
+
+
+.second-goals-para{
+    margin: 0px 20px ;
+    padding: 10px 20px;
 }
 
 
