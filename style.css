@@ -1,15 +1,14 @@
 body{
     padding: 0;
-    width: 80%;
-    margin: 0 auto;
+    margin: 0;
     font-family: 'Poppins', sans-serif; 
-
 }
 
-.first-section{
+.first-section {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .span-color{
@@ -26,8 +25,7 @@ body{
 .heading-ver-line{
     padding: 0px 0px 35px 5px;
     border-left: 3px solid red;
-    height: 75px;
-   
+    height: 75px; 
 
 }
 
@@ -63,3 +61,21 @@ body{
 #scroll-to-explore{
     padding-top: 25px;
 }
+
+.second-section{
+
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.second-section-title {
+
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;     
+}
+
+
