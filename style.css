@@ -1,4 +1,65 @@
 body{
-    margin: 0;
     padding: 0;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif; 
+
+}
+
+.first-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.span-color{
+    color:orange;
+}
+
+.first-para-section{
+
+    margin-top: 30px;
+    font-weight: 400;
+   
+}
+
+.heading-ver-line{
+    padding: 0px 0px 35px 5px;
+    border-left: 3px solid red;
+    height: 75px;
+   
+
+}
+
+.first-left-heading{
+
+   font-family: 'Abril Fatface', cursive;
+   font-size: 20px;
+}
+
+.first-left-side {
+    width: 50%;
+    padding: 25px 50px;
+}
+
+.first-img-rs img{
+    width: 35%;
+    padding-left: 30%;
+}
+
+#scroll-to-explore{
+    font-size: small;
+}
+
+.explore-btn{
+
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+}
+
+#scroll-to-explore{
+    padding-top: 25px;
 }
